@@ -1,0 +1,20 @@
+Task 1: Git commands
+
+1.create a new branch
+2.make sure wp-config.php and the upload folder will not be comitted to the repository
+3.make a commit but don't push it.
+3.start your wordpress site.
+
+Task 2: Create a WordPress shortcode that outputs a contact form. 
+
+The contact form should have fields for the user's name, email, and message. 
+When the form is submitted, the data should be emailed to a specific email address.
+
+Task 3: Modify Post Content Using WordPress Hooks
+Write a WordPress plugin that modifies the content of all posts to add a copyright notice at the end. The plugin should also add a custom message at the beginning of each post that says, "This post was written by [Author's Display Name]."
+
+
+Task 4: Create a Custom Post Type with a Custom Meta Box
+
+Problem Statement
+Create a custom post type called "Books" and add a custom meta box in the post editor for this custom post type. The meta box should allow the user to add an a number for the book.
